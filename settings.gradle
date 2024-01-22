@@ -1,0 +1,5 @@
+rootProject.name = 'multimodule_root'
+include 'multi-module-api'
+include 'multi-module-batch'
+include 'multi-module-database'
+
